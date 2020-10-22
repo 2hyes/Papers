@@ -10,10 +10,5 @@ Grover, A., & Leskovec, J. (2016, August). node2vec: Scalable feature learning f
 |------|---|---|
 |DeepWalk|Online Learning of Social Representations|-|
 |node2vec|Scalable Feature Learning for Networks|발표용 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf), 줄글 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec.pdf)|
-|테스트1|테스트2|테스트3|
 
 
-논문 스터디 발제pdf 
-<ul>
- [발표용](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf) 
-2. [줄글](https://github.com/2hyes/Graph-Study/blob/main/node2vec.pdf)
