@@ -9,10 +9,10 @@ Grover, A., & Leskovec, J. (2016, August). node2vec: Scalable feature learning f
 - [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/pdf/1609.02907) <br>
 Thomas N. Kipf, Max Welling. (2017). Semi-Supervised Classification with Graph Convolutional Networks. In International Conference on Learning Representations(ICLR).
 
-|논문 제목|부제목|논문 리뷰|
-|------|---|---|-----|
-|DeepWalk|Online Learning of Social Representations|-|
-|node2vec|Scalable Feature Learning for Networks|발표용 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf), 줄글 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec.pdf)|
-|Semi-Supervised Classification with Graph Convolutional Networks| - | - |
+|논문 제목|논문 리뷰|
+|---------|---|
+|DeepWalk: Online Learning of Social Representations |-|
+|Node2vec: Scalable Feature Learning for Networks | 발표용 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf), 줄글 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec.pdf)|
+|Semi-Supervised Classification with Graph Convolutional Networks | - | - |
 
 
