@@ -43,7 +43,7 @@ J. Redmon and A. Farhadi, "YOLOv3: An Incremental Improvement", arXiv preprint a
 |Object Detection|R-CNN| - |
 |Object Detection|Fast R-CNN| - |
 |Object Detection|Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks| - |
-|Object Detection|You Only Look Once: Unified, Real-Time Object Detection| - |
+|Object Detection|You Only Look Once: Unified, Real-Time Object Detection| 발표용 [pdf](https://github.com/2hyes/Papers/blob/main/YOLOv1%20발표용.pdf) |
 |Object Detection|YOLO9000: Better, Faster, Stronger| - |
 |Object Detection|YOLOv3: An Incremental Improvement| - |
 
