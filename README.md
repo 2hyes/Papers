@@ -37,7 +37,7 @@ J. Redmon and A. Farhadi, "YOLOv3: An Incremental Improvement", arXiv preprint a
 |카테고리|논문 제목|논문 리뷰|
 |-----|---------|---|
 |Graph|DeepWalk: Online Learning of Social Representations |-|
-|Graph|Node2vec: Scalable Feature Learning for Networks | 발표용 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf), 줄글 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec.pdf)|
+|Graph|Node2vec: Scalable Feature Learning for Networks | 발표용 [pdf](https://github.com/2hyes/Graph-Study/blob/main/node2vec(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf), 줄글 [pdf](https://github.com/2hyes/Papers/blob/main/node2vec(발표용).pdf)|
 |Graph|Semi-Supervised Classification with Graph Convolutional Networks | - |
 |NN|Deep Residual Learning for Image Recognition| - |
 |Object Detection|R-CNN| - |
